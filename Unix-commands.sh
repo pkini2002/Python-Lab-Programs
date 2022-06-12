@@ -32,7 +32,7 @@
 
 17.rmdir	<directory>           #Remove	directory
 
-18.Ctrl	+	C          #To	negate	a	command	that	you	have	entered
+18.Ctrl+C          #To	negate	a	command	that	you	have	entered
 
 19.touch filename             #Used to create files
 
